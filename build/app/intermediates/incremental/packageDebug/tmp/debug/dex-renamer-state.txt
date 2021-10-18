@@ -1,0 +1,4 @@
+#Tue Oct 05 12:13:45 IST 2021
+base.0=/Users/brinda/Documents/Study/Mca/Trimester 4/Lab/Healthie/flutter/health_app-master/build/app/intermediates/dex/debug/mergeDexDebug/out/classes.dex
+renamed.0=classes.dex
+path.0=classes.dex
